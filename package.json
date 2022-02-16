@@ -5,5 +5,8 @@
 	"scripts": {
 		"build": "honkit build",
 		"serve": "honkit serve"
+	},
+	"dependencies": {
+		"gitbook-plugin-js-console": "^3.0.4"
 	}
 }
